@@ -1,0 +1,12 @@
+# img
+*.jpg
+*.png
+img/
+
+
+# video
+*.mp4
+
+
+# log
+*.log
